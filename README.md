@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-**React & React Native Developer** passionate about building beautiful cross-platform mobile apps. I specialize in creating smooth, intuitive user experiences while integrating modern backend solutions and AI-powered features.
+**React & React Native Developer** building beautiful cross-platform mobile apps. I specialize in creating smooth, intuitive user experiences while integrating modern backend solutions and AI-powered features.
 
 ```javascript
 const samarth = {
