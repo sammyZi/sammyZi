@@ -12,7 +12,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 **React & React Native Developer** building beautiful cross-platform mobile apps. I specialize in creating smooth, intuitive user experiences while integrating modern backend solutions and AI-powered features.
 
@@ -74,6 +74,6 @@ const samarth = {
 
 <div align="center">
   
-  *"Building amazing mobile experiences, one component at a time"* ✨
+  *"Building amazing mobile experiences, one component at a time"* 
   
 </div>
