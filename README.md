@@ -50,7 +50,7 @@ const samarth = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyZi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
+  ![GitHub Stats](https://github-readme-stats-new-tau.vercel.app/api?username=sammyZi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=sammyZi&theme=tokyonight&hide_border=true)
 
