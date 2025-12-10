@@ -8,8 +8,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sammyZi&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sammyZi?style=flat-square&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Dev-blueviolet?style=flat-square" alt="Focus" />
 </p>
 
 </div>
