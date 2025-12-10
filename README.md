@@ -59,7 +59,7 @@ const samarth = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sammyZi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats-new-tau.vercel.app/api?username=sammyZi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
   <img width="49%" src="https://streak-stats.demolab.com?user=sammyZi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
